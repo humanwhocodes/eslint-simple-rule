@@ -1,6 +1,6 @@
 {
   "name": "@humanwhocodes/eslint-simple-rule",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A utility to create dead-simple ESLint rules.",
   "main": "dist/rule.cjs.js",
   "module": "dist/rule.js",
