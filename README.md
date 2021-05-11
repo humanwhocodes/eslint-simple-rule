@@ -81,3 +81,6 @@ module.exports = rule({
     "VariableDeclaration[kind=var]": "Use either 'let' or 'const' instead of 'var'."
 });
 ```
+
+[npm]: https://www.npmjs.com/
+[yarn]: https://yarnpkg.com/
